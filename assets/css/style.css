@@ -99,3 +99,17 @@ padding-top: 80px;
     padding-right: 5%;
     border-right: 3px solid var(--tcolor);
 }
+
+
+.work img {
+    display: flex;
+    border: 2px solid red;
+}
+
+#project-1 {
+    width: auto;
+}
+
+
+
+
