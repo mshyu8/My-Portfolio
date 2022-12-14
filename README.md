@@ -9,6 +9,9 @@ N/A
 ## Usage
 My portfolio includes ways to contact me as well as my past coding applications.
 
+<img src="./assets/images/Screenshot%202022-12-14%20102556.png">
+
+
 ## Credits
 N/A
 
